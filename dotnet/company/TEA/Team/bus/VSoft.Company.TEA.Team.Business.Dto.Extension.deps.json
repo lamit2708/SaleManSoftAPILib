@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VSoft.Company.TEA.Team.Business.Dto.Extension/1.0.0.1": {
+        "dependencies": {
+          "VSoft.Company.TEA.Team.Business.Dto": "1.0.0.1",
+          "VegunSoft.Framework.Business.Dto": "1.0.0.1",
+          "VSoft.Company.TEA.Team.Data.Entity": "1.0.0.1"
+        },
+        "runtime": {
+          "VSoft.Company.TEA.Team.Business.Dto.Extension.dll": {}
+        }
+      },
+      "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.TEA.Team.Business.Dto.dll": {}
+        }
+      },
+      "VegunSoft.Framework.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.TEA.Team.Data.Entity/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.TEA.Team.Data.Entity.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Entity.Key/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Entity.Key.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VSoft.Company.TEA.Team.Business.Dto.Extension/1.0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.TEA.Team.Data.Entity/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Entity.Key/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
