@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VSoft.Company.PRC.ProductCategory.Business/1.0.0.1": {
+        "dependencies": {
+          "VSoft.Company.PRC.ProductCategory.Business.Dto": "1.0.0.1",
+          "VegunSoft.Framework.Business.Dto": "1.0.0.1"
+        },
+        "runtime": {
+          "VSoft.Company.PRC.ProductCategory.Business.dll": {}
+        }
+      },
+      "VSoft.Company.PRC.ProductCategory.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.PRC.ProductCategory.Business.Dto.dll": {}
+        }
+      },
+      "VegunSoft.Framework.Business.Dto/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VSoft.Company.PRC.ProductCategory.Business/1.0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.PRC.ProductCategory.Business.Dto/1.0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
