@@ -11,6 +11,7 @@
           "VegunSoft.Framework.Api.DtoClient.Cfg": "1.0.0.1",
           "VegunSoft.Framework.Api.DtoClient": "1.0.0.1",
           "VegunSoft.Framework.Business.Dto": "1.0.0.1",
+          "VegunSoft.Framework.Paging.Provider": "1.0.0.1",
           "VSoft.Company.TEA.Team.Business.Dto": "1.0.0.1"
         },
         "runtime": {
@@ -41,9 +42,25 @@
           }
         }
       },
+      "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.Provider.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
       "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
         "runtime": {
           "VSoft.Company.TEA.Team.Business.Dto.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -72,7 +89,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VSoft.Company.TEA.Team.Business.Dto/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
