@@ -28,7 +28,10 @@
           "VSoft.Company.PRO.Product.Business": "1.0.0.1",
           "VSoft.Company.PRO.Product.Business.Dto": "1.0.0.1",
           "VSoft.Company.PRO.Product.Data.Db": "1.0.0.1",
-          "VSoft.Company.PRO.Product.Data.Entity": "1.0.0.1"
+          "VSoft.Company.PRO.Product.Data.Entity": "1.0.0.1",
+          "VSoft.Company.PRO.Product.Repository": "1.0.0.1",
+          "VSoft.Company.PRO.Product.Repository.Efc": "1.0.0.1",
+          "VSoft.Company.PRO.Product.Repository.Efc.Provider": "1.0.0.1"
         },
         "runtime": {
           "VSoft.Company.PRO.Product.Api.Controller.dll": {}
@@ -529,6 +532,30 @@
           }
         }
       },
+      "VSoft.Company.PRO.Product.Repository/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.PRO.Product.Repository.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.PRO.Product.Repository.Efc/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.PRO.Product.Repository.Efc.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VSoft.Company.PRO.Product.Repository.Efc.Provider/1.0.0.1": {
+        "runtime": {
+          "VSoft.Company.PRO.Product.Repository.Efc.Provider.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
       "VegunSoft.Framework.Repository.Model/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Repository.Model.dll": {
@@ -556,6 +583,22 @@
       "VegunSoft.Framework.Entity.Key/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Entity.Key.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Repository.Id.Efc/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Repository.Id.Efc.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Repository.Id.Efc.Provider/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Repository.Id.Efc.Provider.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -1060,6 +1103,21 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VSoft.Company.PRO.Product.Repository/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.PRO.Product.Repository.Efc/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VSoft.Company.PRO.Product.Repository.Efc.Provider/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VegunSoft.Framework.Repository.Model/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
@@ -1076,6 +1134,16 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Entity.Key/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Repository.Id.Efc/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Repository.Id.Efc.Provider/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
