@@ -18,6 +18,7 @@
           "VegunSoft.Framework.Business.Provider": "1.0.0.1",
           "VegunSoft.Framework.Business.Provider.Repository": "1.0.0.1",
           "VegunSoft.Framework.Identity": "1.0.0.1",
+          "VegunSoft.Framework.Paging.Provider": "1.0.0.1",
           "VegunSoft.Framework.Repository": "1.0.0.1",
           "VegunSoft.Framework.Repository.Id.Efc": "1.0.0.1",
           "VegunSoft.Framework.Repository.Model": "1.0.0.1",
@@ -186,6 +187,14 @@
           }
         }
       },
+      "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.Provider.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
       "VegunSoft.Framework.Repository/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Repository.dll": {
@@ -229,6 +238,14 @@
       "VSoft.Company.TEA.Team.Repository/1.0.0.1": {
         "runtime": {
           "VSoft.Company.TEA.Team.Repository.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -403,6 +420,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VegunSoft.Framework.Repository/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
@@ -429,6 +451,11 @@
       "sha512": ""
     },
     "VSoft.Company.TEA.Team.Repository/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
