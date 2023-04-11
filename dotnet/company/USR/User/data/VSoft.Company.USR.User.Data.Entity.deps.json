@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VSoft.Company.USR.User.Data.Entity/1.0.0.1": {
+        "dependencies": {
+          "VegunSoft.Framework.Entity.Key": "1.0.0.1"
+        },
+        "runtime": {
+          "VSoft.Company.USR.User.Data.Entity.dll": {}
+        }
+      },
+      "VegunSoft.Framework.Entity.Key/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Entity.Key.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VSoft.Company.USR.User.Data.Entity/1.0.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Entity.Key/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
