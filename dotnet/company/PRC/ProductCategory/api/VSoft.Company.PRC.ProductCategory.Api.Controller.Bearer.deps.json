@@ -556,17 +556,17 @@
           }
         }
       },
-      "VegunSoft.Framework.Repository.Model/1.0.0.1": {
+      "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
         "runtime": {
-          "VegunSoft.Framework.Repository.Model.dll": {
+          "VegunSoft.Framework.Paging.Provider.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
         }
       },
-      "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+      "VegunSoft.Framework.Repository.Model/1.0.0.1": {
         "runtime": {
-          "VegunSoft.Framework.Paging.Provider.dll": {
+          "VegunSoft.Framework.Repository.Model.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -599,6 +599,14 @@
       "VegunSoft.Framework.Repository.Id.Efc.Provider/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Repository.Id.Efc.Provider.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Value.Property/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Value.Property.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -1118,12 +1126,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "VegunSoft.Framework.Repository.Model/1.0.0.1": {
+    "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+    "VegunSoft.Framework.Repository.Model/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
@@ -1144,6 +1152,11 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Repository.Id.Efc.Provider/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Value.Property/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

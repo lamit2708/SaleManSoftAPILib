@@ -37,9 +37,25 @@
           }
         }
       },
+      "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.Provider.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
       "VegunSoft.Framework.Entity.Key/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Entity.Key.dll": {
+            "assemblyVersion": "1.0.0.1",
+            "fileVersion": "1.0.0.1"
+          }
+        }
+      },
+      "VegunSoft.Framework.Paging/1.0.0.1": {
+        "runtime": {
+          "VegunSoft.Framework.Paging.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -68,7 +84,17 @@
       "serviceable": false,
       "sha512": ""
     },
+    "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
     "VegunSoft.Framework.Entity.Key/1.0.0.1": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VegunSoft.Framework.Paging/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
