@@ -30,8 +30,7 @@
           "VSoft.Company.USR.User.Data.Db": "1.0.0.1",
           "VSoft.Company.USR.User.Data.Entity": "1.0.0.1",
           "VSoft.Company.USR.User.Repository": "1.0.0.1",
-          "VSoft.Company.USR.User.Repository.Efc": "1.0.0.1",
-          "VSoft.Company.USR.User.Repository.Efc.Provider": "1.0.0.1"
+          "VSoft.Company.USR.User.Repository.Efc": "1.0.0.1"
         },
         "runtime": {
           "VSoft.Company.USR.User.Api.Controller.Bearer.dll": {}
@@ -548,14 +547,6 @@
           }
         }
       },
-      "VSoft.Company.USR.User.Repository.Efc.Provider/1.0.0.1": {
-        "runtime": {
-          "VSoft.Company.USR.User.Repository.Efc.Provider.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
       "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Paging.Provider.dll": {
@@ -591,22 +582,6 @@
       "VegunSoft.Framework.Repository.Id.Efc/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Repository.Id.Efc.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "VegunSoft.Framework.Repository.Id.Efc.Provider/1.0.0.1": {
-        "runtime": {
-          "VegunSoft.Framework.Repository.Id.Efc.Provider.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "VegunSoft.Framework.Value.Property/1.0.0.1": {
-        "runtime": {
-          "VegunSoft.Framework.Value.Property.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -1121,11 +1096,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "VSoft.Company.USR.User.Repository.Efc.Provider/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
@@ -1147,16 +1117,6 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Repository.Id.Efc/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VegunSoft.Framework.Repository.Id.Efc.Provider/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VegunSoft.Framework.Value.Property/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

@@ -28,10 +28,7 @@
           "VSoft.Company.DEA.Deal.Business": "1.0.0.1",
           "VSoft.Company.DEA.Deal.Business.Dto": "1.0.0.1",
           "VSoft.Company.DEA.Deal.Data.Db": "1.0.0.1",
-          "VSoft.Company.DEA.Deal.Data.Entity": "1.0.0.1",
-          "VSoft.Company.DEA.Deal.Repository": "1.0.0.1",
-          "VSoft.Company.DEA.Deal.Repository.Efc": "1.0.0.1",
-          "VSoft.Company.DEA.Deal.Repository.Efc.Provider": "1.0.0.1"
+          "VSoft.Company.DEA.Deal.Data.Entity": "1.0.0.1"
         },
         "runtime": {
           "VSoft.Company.DEA.Deal.Api.Controller.Base.dll": {}
@@ -519,30 +516,6 @@
           }
         }
       },
-      "VSoft.Company.DEA.Deal.Repository/1.0.0.1": {
-        "runtime": {
-          "VSoft.Company.DEA.Deal.Repository.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "VSoft.Company.DEA.Deal.Repository.Efc/1.0.0.1": {
-        "runtime": {
-          "VSoft.Company.DEA.Deal.Repository.Efc.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "VSoft.Company.DEA.Deal.Repository.Efc.Provider/1.0.0.1": {
-        "runtime": {
-          "VSoft.Company.DEA.Deal.Repository.Efc.Provider.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
       "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Paging.Provider.dll": {
@@ -570,22 +543,6 @@
       "VegunSoft.Framework.Entity.Key/1.0.0.1": {
         "runtime": {
           "VegunSoft.Framework.Entity.Key.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "VegunSoft.Framework.Repository.Id.Efc/1.0.0.1": {
-        "runtime": {
-          "VegunSoft.Framework.Repository.Id.Efc.dll": {
-            "assemblyVersion": "1.0.0.1",
-            "fileVersion": "1.0.0.1"
-          }
-        }
-      },
-      "VegunSoft.Framework.Repository.Id.Efc.Provider/1.0.0.1": {
-        "runtime": {
-          "VegunSoft.Framework.Repository.Id.Efc.Provider.dll": {
             "assemblyVersion": "1.0.0.1",
             "fileVersion": "1.0.0.1"
           }
@@ -1085,21 +1042,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "VSoft.Company.DEA.Deal.Repository/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VSoft.Company.DEA.Deal.Repository.Efc/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VSoft.Company.DEA.Deal.Repository.Efc.Provider/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "VegunSoft.Framework.Paging.Provider/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
@@ -1116,16 +1058,6 @@
       "sha512": ""
     },
     "VegunSoft.Framework.Entity.Key/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VegunSoft.Framework.Repository.Id.Efc/1.0.0.1": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VegunSoft.Framework.Repository.Id.Efc.Provider/1.0.0.1": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
